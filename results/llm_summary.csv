@@ -1,0 +1,3 @@
+condition,predictions,accuracy,valid_predictions,mean_runtime,total_runtime
+Control,400,0.935,400,9.481121478240238,3792.4485912960954
+Treatment,400,0.9225,400,11.05065024899668,4420.260099598672

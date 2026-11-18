@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+data/IMDB Dataset.csv
+data/experimental_sample.csv
+data/linguistic_annotations.csv
+results/annotated_review_outcomes.csv
+results/both_incorrect_reviews.csv
+results/detailed_error_analysis.csv
+results/improved_reviews.csv
+results/worsened_reviews.csv

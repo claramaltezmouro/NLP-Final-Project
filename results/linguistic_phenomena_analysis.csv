@@ -1,0 +1,7 @@
+phenomenon,presence,number_of_reviews,control_accuracy,treatment_accuracy,treatment_effect,improved,worsened
+negation,Absent,4,1.0,1.0,0.0,0,0
+negation,Present,16,0.875,0.75,-0.125,0,2
+irony,Absent,16,0.875,0.75,-0.125,0,2
+irony,Present,4,1.0,1.0,0.0,0,0
+sarcasm,Absent,14,0.9285714285714286,0.7857142857142857,-0.14285714285714285,0,2
+sarcasm,Present,6,0.8333333333333334,0.8333333333333334,0.0,0,0
